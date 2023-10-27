@@ -1,0 +1,107 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "My name is Aaron and I am a wannabe devloper with basic coding skills, I love creating projects to work on. When faced with a [frustrating] coding problem I will allow myself five minutes to search on the internet for an answer, I will view the websites codepen, w3schools and/or developer.mozilla.org to help solve my problem. Moreover, if my problem still persists after the time limit, I will ask on Discord (we used our own Discord channel at both Tech Educators and Netmatters) or I will ask (one of the staff available) in person.  ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "JavaScript Game",
+        "startDate": "2023",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/videogame.png"
+        ],
+        "url": "https://aaron1986.github.io/JavaScript_Game/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          }
+        ]
+      },
+      {
+        "title": "React JSON Gallery",
+        "startDate": "2023",
+        "description": "Project for Tech Educators using JSON data including images, I used React JavaScript to code this webpage",
+        "images": [
+          "images/portfolio/photography/webpage.png"
+        ],
+        "url": "https://main--helpful-sopapillas-0c4447.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Math Dragons",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/math_dragons.png"
+        ],
+        "url": "https://math-dragons.github.io/cyos/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tech Educators",
+        "title": "MERN",
+        "years": "2023 - present",
+        "mainTech": [
+          "FULL STACK"
+        ],
+        "technologies": [
+          "API",
+          "JavaScript",
+          "React",
+          "CSS",
+          "HTML"
+        ]
+      },
+      {
+        "company": "Netmatters",
+        "title": "FULL STACK DEVELOPER",
+        "years": "06.2022 - 02.2023",
+        "mainTech": [
+          "BackEnd Development"
+        ],
+        "technologies": [
+          "SQL",
+          "JavaScript",
+          "PHP",
+          "C#",
+          "SASS"
+        ]
+      }
+    ]
+  }
